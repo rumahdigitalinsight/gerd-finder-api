@@ -1,9 +1,0 @@
-{
-  "name": "gerd-finder-api",
-  "version": "5.0.0",
-  "type": "module",
-  "dependencies": {
-    "@supabase/supabase-js": "^2.39.0",
-    "resend": "^3.2.0"
-  }
-}
